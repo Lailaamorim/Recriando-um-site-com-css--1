@@ -1,0 +1,13 @@
+body{background-image: url(https://img.olhardigital.com.br/wp-content/uploads/2021/04/Galaxia-scaled.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{color: antiquewhite;}
+
+h3{color: yellow; border: 2px solid yellowgreen;}
+li{color: aliceblue;}
+#astronomy-class{color:  #e74c3c;}
+h2{background-color:#f1c40f ; border-color: #000000;
+    border-style: solid;
+    border-width: 2px;
+}
